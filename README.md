@@ -20,25 +20,25 @@ We will explore the data step by step, visualize the data, create count/count pe
 
 The following steps will be covered in the tutorial
 
-Getting the data ready
+##### Getting the data ready
 
-1.1 Understanding the data
-1.2 Cleaning data by dropping unwanted rows and columns
-1.3 Handling missing values
-1.4 Handling outliers
-1.5 Changing the data types of columns
-1.6 Changing column names into meaningful ones for analysis.
-1.7 Creating derived variables and binning the data.
-1.8 Understanding the data imbalance
+- 1.1 Understanding the data
+- 1.2 Cleaning data by dropping unwanted rows and columns
+- 1.3 Handling missing values
+- 1.4 Handling outliers
+- 1.5 Changing the data types of columns
+- 1.6 Changing column names into meaningful ones for analysis.
+- 1.7 Creating derived variables and binning the data.
+- 1.8 Understanding the data imbalance
 
-Data Analysis
-2.1 Univariate Analysis
-2.1.1 Categorical
-2.1.2 Numerical
-2.2 Bivariate Analysis
-2.2.1 Categorical & Categorical
-2.2.2 Numerical & Numerical
-2.2.3 Categorical & Numerical
+##### Data Analysis
+- 2.1 Univariate Analysis
+ - 2.1.1 Categorical
+ - 2.1.2 Numerical
+- 2.2 Bivariate Analysis
+ - 2.2.1 Categorical & Categorical
+ - 2.2.2 Numerical & Numerical
+ - 2.2.3 Categorical & Numerical
 
 After performing the above analysis, we will be arriving at the driving factors behind the loan defaults
 
